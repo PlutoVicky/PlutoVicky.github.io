@@ -72,6 +72,13 @@
     </url>
 
     <url>
+        <loc>http://vickyPluto.wang/tags/Hexo/</loc>
+        <lastmod>2016-07-25T07:05:40.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://vickyPluto.wang/tags/%E5%A4%9A%E8%AF%B4/</loc>
         <lastmod>2016-07-25T07:05:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -86,21 +93,7 @@
     </url>
 
     <url>
-        <loc>http://vickyPluto.wang/tags/Hexo/</loc>
-        <lastmod>2016-07-25T07:05:40.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://vickyPluto.wang/tags/Excel/</loc>
-        <lastmod>2016-07-25T07:05:40.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://vickyPluto.wang/tags/Table/</loc>
+        <loc>http://vickyPluto.wang/tags/GitHub/</loc>
         <lastmod>2016-07-25T07:05:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -108,13 +101,6 @@
 
     <url>
         <loc>http://vickyPluto.wang/tags/TagCloud/</loc>
-        <lastmod>2016-07-25T07:05:40.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://vickyPluto.wang/tags/GitHub/</loc>
         <lastmod>2016-07-25T07:05:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -156,14 +142,28 @@
     </url>
 
     <url>
-        <loc>http://vickyPluto.wang/tags/Sublime/</loc>
+        <loc>http://vickyPluto.wang/tags/font-family/</loc>
         <lastmod>2016-07-25T07:05:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://vickyPluto.wang/tags/font-family/</loc>
+        <loc>http://vickyPluto.wang/tags/Excel/</loc>
+        <lastmod>2016-07-25T07:05:40.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://vickyPluto.wang/tags/Table/</loc>
+        <lastmod>2016-07-25T07:05:40.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://vickyPluto.wang/tags/Sublime/</loc>
         <lastmod>2016-07-25T07:05:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -178,13 +178,6 @@
 
     <url>
         <loc>http://vickyPluto.wang/tags/Font-Awesome/</loc>
-        <lastmod>2016-07-25T07:05:40.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://vickyPluto.wang/tags/DNS/</loc>
         <lastmod>2016-07-25T07:05:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -213,6 +206,13 @@
 
     <url>
         <loc>http://vickyPluto.wang/tags/JSON/</loc>
+        <lastmod>2016-07-25T07:05:40.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://vickyPluto.wang/tags/DNS/</loc>
         <lastmod>2016-07-25T07:05:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
