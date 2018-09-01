@@ -93,20 +93,6 @@
     </url>
 
     <url>
-        <loc>http://vickyPluto.wang/tags/TagCloud/</loc>
-        <lastmod>2016-07-25T07:05:40.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://vickyPluto.wang/tags/GitHub/</loc>
-        <lastmod>2016-07-25T07:05:40.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://vickyPluto.wang/tags/Excel/</loc>
         <lastmod>2016-07-25T07:05:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -115,6 +101,20 @@
 
     <url>
         <loc>http://vickyPluto.wang/tags/Table/</loc>
+        <lastmod>2016-07-25T07:05:40.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://vickyPluto.wang/tags/TagCloud/</loc>
+        <lastmod>2016-07-25T07:05:40.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://vickyPluto.wang/tags/GitHub/</loc>
         <lastmod>2016-07-25T07:05:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
