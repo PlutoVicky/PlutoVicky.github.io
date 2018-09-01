@@ -24,23 +24,25 @@
 
     
   <url>
-    <loc>http://vickyPluto.wang/2015/08/30/EndNote-Markdown/</loc>
+    <loc>http://vickyPluto.wang/2015/08/28/Front-End-Study/</loc>
     <lastmod>2016-07-25T07:05:40.000Z</lastmod>
     <data>
         <display>
-        <title>EndNote 与 Markdown 结合 — 为网文快速添加 Reference</title>
-        <pubTime>2015-08-29T16:00:00.000Z</pubTime>
+        <title>个人 Web 前端学习路线</title>
+        <pubTime>2015-08-27T16:00:00.000Z</pubTime>
         
-        <tag>EndNote</tag>
+        <tag>HTML</tag>
          
-        <tag>Markdown</tag>
+        <tag>CSS</tag>
          
-        <tag>Reference</tag>
+        <tag>JavaScript</tag>
+         
+        <tag>Git</tag>
          
          
            
              
-              <breadCrumb title="触类旁通" url="http://vickyPluto.wang/categories/%E8%A7%A6%E7%B1%BB%E6%97%81%E9%80%9A/"/>
+              <breadCrumb title="术业专攻" url="http://vickyPluto.wang/categories/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
           
         </display>
     </data>
@@ -100,6 +102,28 @@
 
     
   <url>
+    <loc>http://vickyPluto.wang/2015/10/25/hexo-tag-cloud/</loc>
+    <lastmod>2016-07-25T07:05:40.000Z</lastmod>
+    <data>
+        <display>
+        <title>让 Hexo 自动生成 Tag Cloud 标签云页面</title>
+        <pubTime>2015-10-25T04:08:49.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+        <tag>TagCloud</tag>
+         
+         
+           
+             
+              <breadCrumb title="术业专攻" url="http://vickyPluto.wang/categories/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://vickyPluto.wang/2015/10/16/hexo-404-page/</loc>
     <lastmod>2016-07-25T07:05:40.000Z</lastmod>
     <data>
@@ -122,21 +146,23 @@
 
     
   <url>
-    <loc>http://vickyPluto.wang/2015/10/25/hexo-tag-cloud/</loc>
+    <loc>http://vickyPluto.wang/2015/10/31/excel-markdown-table/</loc>
     <lastmod>2016-07-25T07:05:40.000Z</lastmod>
     <data>
         <display>
-        <title>让 Hexo 自动生成 Tag Cloud 标签云页面</title>
-        <pubTime>2015-10-25T04:08:49.000Z</pubTime>
+        <title>用 Excel 生成和管理 Markdown 表格</title>
+        <pubTime>2015-10-31T10:18:33.000Z</pubTime>
         
-        <tag>Hexo</tag>
+        <tag>Markdown</tag>
          
-        <tag>TagCloud</tag>
+        <tag>Excel</tag>
+         
+        <tag>Table</tag>
          
          
            
              
-              <breadCrumb title="术业专攻" url="http://vickyPluto.wang/categories/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
+              <breadCrumb title="触类旁通" url="http://vickyPluto.wang/categories/%E8%A7%A6%E7%B1%BB%E6%97%81%E9%80%9A/"/>
           
         </display>
     </data>
@@ -169,30 +195,6 @@
 
     
   <url>
-    <loc>http://vickyPluto.wang/2015/10/31/excel-markdown-table/</loc>
-    <lastmod>2016-07-25T07:05:40.000Z</lastmod>
-    <data>
-        <display>
-        <title>用 Excel 生成和管理 Markdown 表格</title>
-        <pubTime>2015-10-31T10:18:33.000Z</pubTime>
-        
-        <tag>Markdown</tag>
-         
-        <tag>Excel</tag>
-         
-        <tag>Table</tag>
-         
-         
-           
-             
-              <breadCrumb title="触类旁通" url="http://vickyPluto.wang/categories/%E8%A7%A6%E7%B1%BB%E6%97%81%E9%80%9A/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://vickyPluto.wang/2015/11/09/web-style-guide/</loc>
     <lastmod>2016-07-25T07:05:40.000Z</lastmod>
     <data>
@@ -213,32 +215,6 @@
           
              
               <breadCrumb title="术业专攻" url="http://vickyPluto.wang/categories/%E8%87%AA%E7%94%A8%E7%AC%94%E8%AE%B0/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://vickyPluto.wang/2015/11/16/png-gif-transparency/</loc>
-    <lastmod>2016-07-25T07:05:40.000Z</lastmod>
-    <data>
-        <display>
-        <title>制作透明背景 PNG 图片和 GIF 动图的几种方法</title>
-        <pubTime>2015-11-16T14:28:00.000Z</pubTime>
-        
-        <tag>PhotoShop</tag>
-         
-        <tag>GIF</tag>
-         
-        <tag>PNG</tag>
-         
-        <tag>PowerPoint</tag>
-         
-         
-           
-             
-              <breadCrumb title="触类旁通" url="http://vickyPluto.wang/categories/%E8%A7%A6%E7%B1%BB%E6%97%81%E9%80%9A/"/>
           
         </display>
     </data>
@@ -286,6 +262,52 @@
           
              
               <breadCrumb title="术业专攻" url="http://vickyPluto.wang/categories/%E8%87%AA%E7%94%A8%E7%AC%94%E8%AE%B0/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://vickyPluto.wang/2015/11/16/png-gif-transparency/</loc>
+    <lastmod>2016-07-25T07:05:40.000Z</lastmod>
+    <data>
+        <display>
+        <title>制作透明背景 PNG 图片和 GIF 动图的几种方法</title>
+        <pubTime>2015-11-16T14:28:00.000Z</pubTime>
+        
+        <tag>PhotoShop</tag>
+         
+        <tag>GIF</tag>
+         
+        <tag>PNG</tag>
+         
+        <tag>PowerPoint</tag>
+         
+         
+           
+             
+              <breadCrumb title="触类旁通" url="http://vickyPluto.wang/categories/%E8%A7%A6%E7%B1%BB%E6%97%81%E9%80%9A/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://vickyPluto.wang/2015/12/21/common-hexo-commands/</loc>
+    <lastmod>2016-07-25T07:05:40.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo 最常用的几个命令</title>
+        <pubTime>2015-12-21T14:12:04.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="术业专攻" url="http://vickyPluto.wang/categories/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
           
         </display>
     </data>
@@ -363,19 +385,23 @@
 
     
   <url>
-    <loc>http://vickyPluto.wang/2015/12/21/common-hexo-commands/</loc>
+    <loc>http://vickyPluto.wang/2015/08/30/EndNote-Markdown/</loc>
     <lastmod>2016-07-25T07:05:40.000Z</lastmod>
     <data>
         <display>
-        <title>Hexo 最常用的几个命令</title>
-        <pubTime>2015-12-21T14:12:04.000Z</pubTime>
+        <title>EndNote 与 Markdown 结合 — 为网文快速添加 Reference</title>
+        <pubTime>2015-08-29T16:00:00.000Z</pubTime>
         
-        <tag>Hexo</tag>
+        <tag>EndNote</tag>
+         
+        <tag>Markdown</tag>
+         
+        <tag>Reference</tag>
          
          
            
              
-              <breadCrumb title="术业专攻" url="http://vickyPluto.wang/categories/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
+              <breadCrumb title="触类旁通" url="http://vickyPluto.wang/categories/%E8%A7%A6%E7%B1%BB%E6%97%81%E9%80%9A/"/>
           
         </display>
     </data>
@@ -383,20 +409,16 @@
 
     
   <url>
-    <loc>http://vickyPluto.wang/2015/08/28/Front-End-Study/</loc>
+    <loc>http://vickyPluto.wang/2016/01/10/hexo-post-version-control/</loc>
     <lastmod>2016-07-25T07:05:40.000Z</lastmod>
     <data>
         <display>
-        <title>个人 Web 前端学习路线</title>
-        <pubTime>2015-08-27T16:00:00.000Z</pubTime>
+        <title>关联 GitHub, 让 Hexo 支持查看文章更新历史</title>
+        <pubTime>2016-01-10T14:38:01.000Z</pubTime>
         
-        <tag>HTML</tag>
+        <tag>Hexo</tag>
          
-        <tag>CSS</tag>
-         
-        <tag>JavaScript</tag>
-         
-        <tag>Git</tag>
+        <tag>GitHub</tag>
          
          
            
@@ -417,28 +439,6 @@
         <pubTime>2016-01-01T17:26:48.000Z</pubTime>
         
         <tag>Hexo</tag>
-         
-         
-           
-             
-              <breadCrumb title="术业专攻" url="http://vickyPluto.wang/categories/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://vickyPluto.wang/2016/01/10/hexo-post-version-control/</loc>
-    <lastmod>2016-07-25T07:05:40.000Z</lastmod>
-    <data>
-        <display>
-        <title>关联 GitHub, 让 Hexo 支持查看文章更新历史</title>
-        <pubTime>2016-01-10T14:38:01.000Z</pubTime>
-        
-        <tag>Hexo</tag>
-         
-        <tag>GitHub</tag>
          
          
            
@@ -479,35 +479,13 @@
         <title>Markdown 表格样式调整与自适应优化</title>
         <pubTime>2016-03-04T12:39:17.000Z</pubTime>
         
-        <tag>Markdown</tag>
-         
         <tag>CSS</tag>
          
         <tag>JavaScript</tag>
          
+        <tag>Markdown</tag>
+         
         <tag>Table</tag>
-         
-         
-           
-             
-              <breadCrumb title="术业专攻" url="http://vickyPluto.wang/categories/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://vickyPluto.wang/2016/03/27/hexo-browsersync/</loc>
-    <lastmod>2016-07-25T07:05:40.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo 页面自动刷新与移动端调试</title>
-        <pubTime>2016-03-26T16:17:50.000Z</pubTime>
-        
-        <tag>Hexo</tag>
-         
-        <tag>Browsersync</tag>
          
          
            
@@ -536,6 +514,28 @@
           
              
               <breadCrumb title="术业专攻" url="http://vickyPluto.wang/categories/%E8%87%AA%E7%94%A8%E7%AC%94%E8%AE%B0/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://vickyPluto.wang/2016/03/27/hexo-browsersync/</loc>
+    <lastmod>2016-07-25T07:05:40.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo 页面自动刷新与移动端调试</title>
+        <pubTime>2016-03-26T16:17:50.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+        <tag>Browsersync</tag>
+         
+         
+           
+             
+              <breadCrumb title="术业专攻" url="http://vickyPluto.wang/categories/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
           
         </display>
     </data>
@@ -686,13 +686,13 @@
         <title>个人博客站点建设历程</title>
         <pubTime>2015-08-19T16:00:00.000Z</pubTime>
         
-        <tag>Markdown</tag>
-         
         <tag>HTML</tag>
          
         <tag>CSS</tag>
          
         <tag>JavaScript</tag>
+         
+        <tag>Markdown</tag>
          
         <tag>Hexo</tag>
          
