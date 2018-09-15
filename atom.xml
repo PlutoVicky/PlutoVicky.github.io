@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Wangwei&#39;s Blog</title>
   
-  <subtitle>I am a better cracker !!!</subtitle>
+  <subtitle>I am a really good cracker !!!</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://vickyPluto.wang/"/>
@@ -230,11 +230,11 @@
       <category term="术业专攻" scheme="http://vickyPluto.wang/categories/%E6%9C%AF%E4%B8%9A%E4%B8%93%E6%94%BB/"/>
     
     
-      <category term="Markdown" scheme="http://vickyPluto.wang/tags/Markdown/"/>
-    
       <category term="CSS" scheme="http://vickyPluto.wang/tags/CSS/"/>
     
       <category term="JavaScript" scheme="http://vickyPluto.wang/tags/JavaScript/"/>
+    
+      <category term="Markdown" scheme="http://vickyPluto.wang/tags/Markdown/"/>
     
       <category term="Table" scheme="http://vickyPluto.wang/tags/Table/"/>
     
