@@ -2,27 +2,6 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://vickyPluto.wang/tags/EndNote/</loc>
-        <lastmod>2016-07-25T07:05:40.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://vickyPluto.wang/tags/Markdown/</loc>
-        <lastmod>2016-07-25T07:05:40.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://vickyPluto.wang/tags/Reference/</loc>
-        <lastmod>2016-07-25T07:05:40.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://vickyPluto.wang/tags/HTML/</loc>
         <lastmod>2016-07-25T07:05:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -51,21 +30,21 @@
     </url>
 
     <url>
-        <loc>http://vickyPluto.wang/tags/Windows/</loc>
+        <loc>http://vickyPluto.wang/tags/EndNote/</loc>
         <lastmod>2016-07-25T07:05:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://vickyPluto.wang/tags/Mac/</loc>
+        <loc>http://vickyPluto.wang/tags/Markdown/</loc>
         <lastmod>2016-07-25T07:05:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://vickyPluto.wang/tags/Software/</loc>
+        <loc>http://vickyPluto.wang/tags/Reference/</loc>
         <lastmod>2016-07-25T07:05:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -87,6 +66,27 @@
 
     <url>
         <loc>http://vickyPluto.wang/tags/Hexo/</loc>
+        <lastmod>2016-07-25T07:05:40.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://vickyPluto.wang/tags/Windows/</loc>
+        <lastmod>2016-07-25T07:05:40.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://vickyPluto.wang/tags/Mac/</loc>
+        <lastmod>2016-07-25T07:05:40.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://vickyPluto.wang/tags/Software/</loc>
         <lastmod>2016-07-25T07:05:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
