@@ -7,13 +7,6 @@
     </url>
 
     <url>
-        <loc>http://vickyPluto.wang/2015/08/28/Front-End-Study/</loc>
-        <lastmod>2016-07-25T07:05:40.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <url>
         <loc>http://vickyPluto.wang/2015/08/30/EndNote-Markdown/</loc>
         <lastmod>2016-07-25T07:05:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -21,14 +14,14 @@
     </url>
 
     <url>
-        <loc>http://vickyPluto.wang/2015/09/20/windows-mac-software/</loc>
+        <loc>http://vickyPluto.wang/2015/08/28/Front-End-Study/</loc>
         <lastmod>2016-07-25T07:05:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
 
     <url>
-        <loc>http://vickyPluto.wang/2015/09/29/duoshuo-style/</loc>
+        <loc>http://vickyPluto.wang/2015/09/20/windows-mac-software/</loc>
         <lastmod>2016-07-25T07:05:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -43,6 +36,13 @@
 
     <url>
         <loc>http://vickyPluto.wang/2015/10/25/hexo-tag-cloud/</loc>
+        <lastmod>2016-07-25T07:05:40.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>http://vickyPluto.wang/2015/09/29/duoshuo-style/</loc>
         <lastmod>2016-07-25T07:05:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -84,14 +84,14 @@
     </url>
 
     <url>
-        <loc>http://vickyPluto.wang/2015/11/23/git-command/</loc>
+        <loc>http://vickyPluto.wang/2015/11/30/sublime-config/</loc>
         <lastmod>2016-07-25T07:05:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
 
     <url>
-        <loc>http://vickyPluto.wang/2015/11/30/sublime-config/</loc>
+        <loc>http://vickyPluto.wang/2015/11/23/git-command/</loc>
         <lastmod>2016-07-25T07:05:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -161,14 +161,14 @@
     </url>
 
     <url>
-        <loc>http://vickyPluto.wang/2016/04/18/text-overflow-ellipsis/</loc>
+        <loc>http://vickyPluto.wang/2016/04/20/baidu-share-fontawesome/</loc>
         <lastmod>2016-07-25T07:05:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
 
     <url>
-        <loc>http://vickyPluto.wang/2016/04/20/baidu-share-fontawesome/</loc>
+        <loc>http://vickyPluto.wang/2016/04/18/text-overflow-ellipsis/</loc>
         <lastmod>2016-07-25T07:05:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -189,14 +189,14 @@
     </url>
 
     <url>
-        <loc>http://vickyPluto.wang/2016/05/31/hexo-local-search/</loc>
+        <loc>http://vickyPluto.wang/2016/06/13/hexo-collapsible-toc/</loc>
         <lastmod>2016-07-25T07:05:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
 
     <url>
-        <loc>http://vickyPluto.wang/2016/06/13/hexo-collapsible-toc/</loc>
+        <loc>http://vickyPluto.wang/2016/05/31/hexo-local-search/</loc>
         <lastmod>2016-07-25T07:05:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
