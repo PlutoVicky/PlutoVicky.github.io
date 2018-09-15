@@ -51,27 +51,6 @@
     </url>
 
     <url>
-        <loc>http://vickyPluto.wang/tags/%E5%A4%9A%E8%AF%B4/</loc>
-        <lastmod>2016-07-25T07:05:40.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://vickyPluto.wang/tags/UA/</loc>
-        <lastmod>2016-07-25T07:05:40.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://vickyPluto.wang/tags/Hexo/</loc>
-        <lastmod>2016-07-25T07:05:40.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://vickyPluto.wang/tags/Windows/</loc>
         <lastmod>2016-07-25T07:05:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -87,6 +66,27 @@
 
     <url>
         <loc>http://vickyPluto.wang/tags/Software/</loc>
+        <lastmod>2016-07-25T07:05:40.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://vickyPluto.wang/tags/%E5%A4%9A%E8%AF%B4/</loc>
+        <lastmod>2016-07-25T07:05:40.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://vickyPluto.wang/tags/UA/</loc>
+        <lastmod>2016-07-25T07:05:40.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://vickyPluto.wang/tags/Hexo/</loc>
         <lastmod>2016-07-25T07:05:40.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
